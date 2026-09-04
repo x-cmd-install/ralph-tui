@@ -1,22 +1,24 @@
 about:
-  description: 
+  description:
+  |
+    
   license: MIT
   homepage: https://ralph-tui.com
   head: af44322
   archived: false
   latestVersion: v0.12.0
-  collectedAt: 2026-09-04T04:25:40Z
+  collectedAt: 2026-09-04T19:32:15Z
 timeline:
   created: 2026-01-11
   lastCommit: 2026-09-03
   lastRelease: 2026-05-13
 popularity:
-  star: 2432
+  star: 2435
   watcher: 13
   fork: 235
   release: 17
   contributor: 35
-  pullRequest: 48
+  pullRequest: 267
   issue: 174
 language:
   TypeScript: 4777864
@@ -25,37 +27,63 @@ language:
   Shell: 10268
   JavaScript: 8297
   CSS: 7394
-totalLine: 5140567
+totalBytes: 5140567
 recent:
   last30d:
     since: 2026-08-05
     release: 0
     mergedPR: 23
-    openPR: 0
+    openPR: 4
     closedIssue: 15
     openIssue: 2
-    commit: 79
+    commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 27
+    openPR: 4
+    closedIssue: 21
+    openIssue: 2
+    commit: 0
   last90d:
     since: 2026-06-06
     release: 0
     mergedPR: 27
-    openPR: 0
+    openPR: 4
     closedIssue: 21
     openIssue: 2
-    commit: 84
+    commit: 0
   last180d:
     since: 2026-03-08
     release: 1
     mergedPR: 49
-    openPR: 0
+    openPR: 4
     closedIssue: 37
     openIssue: 7
-    commit: 159
+    commit: 0
   last360d:
     since: 2025-09-09
     release: 17
     mergedPR: 215
-    openPR: 4
+    openPR: 8
     closedIssue: 143
     openIssue: 31
-    commit: 1220
+    commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 17
+    mergedPR: 215
+    openPR: 8
+    closedIssue: 143
+    openIssue: 31
+    commit: 1568
+total:
+  release: 17
+  mergedPR: 215
+  openPR: 8
+  closedIssue: 143
+  openIssue: 31
+  commit: 1568
+---
+---
+
