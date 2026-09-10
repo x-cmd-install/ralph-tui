@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.12.0"
   latestRelease: "v0.12.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:02:41Z
+  collectedAt: 2026-09-10T22:49:46Z
 timeline:
   created: 2026-01-11
   lastCommit: 2026-09-03
@@ -88,7 +88,7 @@ total:
   commit: 1568
 ---
 path: /home/runner/.x-repo/github.com/subsy/ralph-tui
-collectedAt: 2026-09-10T21:02:44Z
+collectedAt: 2026-09-10T22:49:48Z
 loc:
   TypeScript:
     code: 90868
