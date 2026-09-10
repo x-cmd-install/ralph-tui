@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-![ralph-tui](https://repo.x-cmd.io/ralph-tui.svg)
+![ralph-tui](https://repo.x-cmd.io/ralph-tui.svg?lang=zh)
 
 ## 安装
 
@@ -20,11 +20,10 @@ x install ralph-tui
 
 - **最新版本**: `v0.12.0` (2026-05-13)
 - **最近提交**: 2026-09-03
-- **发布时间**: 2026-05-13T19:16:12Z
 
 ## 流行度
 
-- **Star**: 2,438 · **Fork**: 237 · **开放 issue**: 174 · **贡献者**: 35
+- **Star**: 2,439 · **Fork**: 237 · **开放 issue**: 174 · **贡献者**: 35
 
 ## 累计统计
 
@@ -59,4 +58,4 @@ ralph-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:16:29Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:44:04Z._
