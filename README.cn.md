@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-[![x-cmd/install — ralph-tui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ralph-tui.svg?lang=zh)](https://x-cmd.com/install/ralph-tui)
+[![x-cmd/install — ralph-tui Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ralph-tui.svg?lang=zh)](https://x-cmd.com/install/ralph-tui)
 
 ## 安装
 
@@ -45,12 +45,12 @@ x install ralph-tui
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 23 | 4 | 14 | 2 | 42 |
-| last60d | 2026-07-24 | 0 | 27 | 4 | 18 | 2 | 83 |
-| 90d | 2026-06-24 | 0 | 27 | 4 | 21 | 2 | 84 |
-| last180d | 2026-03-26 | 1 | 43 | 4 | 32 | 4 | 134 |
-| 360d | 2025-09-27 | 17 | 215 | 8 | 143 | 31 | 1220 |
-| last720d | 2024-10-02 | 17 | 215 | 8 | 143 | 31 | 1568 |
+| 30d | 2026-08-24 | 0 | 23 | 4 | 13 | 2 | 42 |
+| last60d | 2026-07-25 | 0 | 27 | 4 | 18 | 2 | 83 |
+| 90d | 2026-06-25 | 0 | 27 | 4 | 21 | 2 | 84 |
+| last180d | 2026-03-27 | 1 | 43 | 4 | 32 | 4 | 134 |
+| 360d | 2025-09-28 | 17 | 215 | 8 | 143 | 31 | 1220 |
+| last720d | 2024-10-03 | 17 | 215 | 8 | 143 | 31 | 1568 |
 
 ## 改进这些数据
 
@@ -61,4 +61,4 @@ ralph-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:17:18Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:27:03Z._
