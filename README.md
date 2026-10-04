@@ -45,12 +45,12 @@ Total: **116,257** lines of code across **416** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 0 | 0 | 5 | 0 | 2 | 0 |
-| last60d | 2026-08-04 | 0 | 23 | 5 | 15 | 4 | 79 |
-| 90d | 2026-07-05 | 0 | 27 | 5 | 21 | 4 | 84 |
-| last180d | 2026-04-06 | 1 | 42 | 5 | 29 | 5 | 128 |
-| 360d | 2025-10-08 | 17 | 215 | 9 | 143 | 33 | 1220 |
-| last720d | 2024-10-13 | 17 | 215 | 9 | 143 | 33 | 1568 |
+| 30d | 2026-09-04 | 0 | 0 | 1 | 0 | 2 | 0 |
+| last60d | 2026-08-05 | 0 | 23 | 5 | 15 | 4 | 79 |
+| 90d | 2026-07-06 | 0 | 27 | 5 | 21 | 4 | 84 |
+| last180d | 2026-04-07 | 1 | 42 | 5 | 27 | 5 | 126 |
+| 360d | 2025-10-09 | 17 | 215 | 9 | 143 | 33 | 1220 |
+| last720d | 2024-10-14 | 17 | 215 | 9 | 143 | 33 | 1568 |
 
 ## Improve this data
 
@@ -61,4 +61,4 @@ Install metadata for ralph-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:41:00Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:10:39Z._
