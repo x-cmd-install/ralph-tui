@@ -12,12 +12,12 @@ x install ralph-tui
 
 ## Code insight
 
-Total: **116,257** lines of code across **416** files in the top 5 languages.
+Total: **116,334** lines of code across **418** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 90,868 | 16,999 | 16,820 | 328 |
-| Tsx | 22,235 | 3,735 | 2,414 | 67 |
+| TypeScript | 90,939 | 17,007 | 16,834 | 330 |
+| Tsx | 22,241 | 3,735 | 2,414 | 67 |
 | Yaml | 1,463 | 13 | 432 | 3 |
 | Json | 638 | 0 | 0 | 13 |
 | Handlebars | 310 | 71 | 54 | 5 |
@@ -31,26 +31,26 @@ Total: **116,257** lines of code across **416** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.12.0` (2026-05-13)
-- **Last commit**: 2026-09-03
+- **Last commit**: 2026-10-24
 
 ## Popularity
 
-- **Stars**: 2,456 · **Forks**: 238 · **Open issues**: 176 · **Contributors**: 35
+- **Stars**: 2,457 · **Forks**: 238 · **Open issues**: 176 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 215 · **Open PRs**: 9 · **Closed issues**: 143 · **Open issues**: 33 · **Commits**: 1568
+- **Releases**: 17 · **Merged PRs**: 216 · **Open PRs**: 8 · **Closed issues**: 144 · **Open issues**: 32 · **Commits**: 1575
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 0 | 1 | 0 | 2 | 0 |
-| last60d | 2026-08-25 | 0 | 23 | 5 | 11 | 4 | 74 |
-| 90d | 2026-07-26 | 0 | 26 | 5 | 17 | 4 | 83 |
-| last180d | 2026-04-27 | 1 | 36 | 5 | 24 | 4 | 106 |
-| 360d | 2025-10-29 | 17 | 215 | 9 | 143 | 33 | 1220 |
-| last720d | 2024-11-03 | 17 | 215 | 9 | 143 | 33 | 1568 |
+| 30d | 2026-09-25 | 0 | 0 | 1 | 0 | 2 | 1 |
+| last60d | 2026-08-26 | 0 | 23 | 4 | 11 | 4 | 30 |
+| 90d | 2026-07-27 | 0 | 27 | 4 | 17 | 4 | 85 |
+| last180d | 2026-04-28 | 1 | 37 | 4 | 24 | 4 | 112 |
+| 360d | 2025-10-30 | 17 | 216 | 8 | 144 | 32 | 1226 |
+| last720d | 2024-11-04 | 17 | 216 | 8 | 144 | 32 | 1575 |
 
 ## Improve this data
 
@@ -61,4 +61,4 @@ Install metadata for ralph-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:56:42Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:05:08Z._
