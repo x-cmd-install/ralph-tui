@@ -35,7 +35,7 @@ Total: **120,401** lines of code across **427** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,460 · **Forks**: 239 · **Open issues**: 183 · **Contributors**: 36
+- **Stars**: 2,461 · **Forks**: 239 · **Open issues**: 183 · **Contributors**: 36
 
 ## Totals (cumulative)
 
@@ -45,12 +45,12 @@ Total: **120,401** lines of code across **427** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 4 | 0 | 2 | 5 | 39 |
-| last60d | 2026-09-04 | 0 | 5 | 0 | 3 | 6 | 43 |
-| 90d | 2026-08-05 | 0 | 32 | 0 | 20 | 6 | 135 |
-| last180d | 2026-05-07 | 1 | 45 | 0 | 29 | 6 | 151 |
-| 360d | 2025-11-08 | 17 | 224 | 4 | 151 | 32 | 1276 |
-| last720d | 2024-11-13 | 17 | 224 | 4 | 151 | 32 | 1640 |
+| 30d | 2026-10-05 | 0 | 4 | 0 | 2 | 5 | 39 |
+| last60d | 2026-09-05 | 0 | 5 | 0 | 3 | 6 | 43 |
+| 90d | 2026-08-06 | 0 | 32 | 0 | 20 | 6 | 135 |
+| last180d | 2026-05-08 | 1 | 45 | 0 | 29 | 6 | 151 |
+| 360d | 2025-11-09 | 17 | 224 | 4 | 151 | 32 | 1276 |
+| last720d | 2024-11-14 | 17 | 224 | 4 | 151 | 32 | 1640 |
 
 ## Improve this data
 
@@ -61,4 +61,4 @@ Install metadata for ralph-tui lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:09:19Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:40:56Z._
